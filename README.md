@@ -3,3 +3,6 @@
 [x] npm i react-youtube
 
 [x] npm i movie-trailer
+
+
+[x] deployed version : https://objective-engelbart-717d93.netlify.app/
